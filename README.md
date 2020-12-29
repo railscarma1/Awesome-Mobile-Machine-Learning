@@ -4,7 +4,7 @@ A list of awesome mobile machine learning resources curated by [Fritz AI](https:
 
 ## About Fritz AI
 
-Fritz AI helps you teach your applications how to see, hear, sense, and think. Create ML-powered features in your mobile apps for both Android and iOS. Start with our ready-to-use feature APIs or connect and deploy your own custom models.
+Fritz AI helps you teach your applications how to see, hear, sense, and think. Create ML-powered features in your mobile apps for iOS, Android, and SnapML. Start with our ready-to-use feature APIs or use our Studio to build your own custom models—without code.
 
 [Sign up](https://app.fritz.ai/register?utm_source=github&utm_campaign=awesome_mobile_machine_learning) for a Fritz AI account to start building today.
 
