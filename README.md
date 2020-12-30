@@ -17,12 +17,14 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
   - [Mobile-Ready](#mobileready)
   - [Mobile-Compatible](#mobilecompatible)
 - [Code, Libraries, and Resources](#code)
+  - [SnapML](#snapmldocs)
   - [iOS](#ioscode)
   - [Android](#androidcode)
   - [Browser](#browsercode)
   - [Server Side](#servercode)
   - [Fritz Community Resources](#fritzcode)
 - [Tutorials & Learning](#tutorials)
+  - [SnapML](#snapmltutorials)
   - [iOS](#iostutorials)
   - [Android](#androidtutorials)
   - [Cross/Multi-Platform and Edge](#crosstutorials)
@@ -61,6 +63,14 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [AI in the Browser](https://codeburst.io/ai-in-the-browser-939d8ab387a2)
 - [Federated Learning: An Introduction](https://heartbeat.fritz.ai/federated-learning-an-introduction-a0bedc8a584c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Popular Mobile Machine Learning Projects to Help You Start Building](https://heartbeat.fritz.ai/popular-mobile-machine-learning-projects-to-help-you-start-building-48646fb6c60a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Federated Learning: Motivation and Challenges](https://heartbeat.fritz.ai/federated-learning-motivation-and-challenges-62f252fd3eae?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Will NVIDIA GPUs push AI on mobile devices to the next level?](https://heartbeat.fritz.ai/will-nvidia-gpus-push-ai-on-mobile-devices-to-the-next-level-49325dc64f47?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Mobile Machine Learning: 2020 Year in Review](https://heartbeat.fritz.ai/mobile-machine-learning-2020-year-in-review-be5d1f1052a1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Alibaba’s Mobile Neural Network: A deep learning framework for mobile and embedded devices](https://heartbeat.fritz.ai/alibabas-mobile-neural-network-a-deep-learning-framework-for-mobile-and-embedded-devices-40fd64abcba5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Monetizing Mobile Machine Learning](https://heartbeat.fritz.ai/monetizing-mobile-machine-learning-57e0d25e606e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [The State of Mobile Machine Learning in 2020 (Industry Report)](https://www.fritz.ai/ebooks/mobile-machine-learning-data-report-2020/?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Studio 3.0 introduces SnapML for adding custom neural networks directly to Snapchat](https://heartbeat.fritz.ai/lens-studio-3-0-introduces-snapml-for-adding-custom-neural-networks-directly-to-snapchat-c2c32ed95b2b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [SnapML in Lens Studio: Using custom machine learning models to power AR experiences](https://heartbeat.fritz.ai/snapml-in-lens-studio-using-custom-machine-learning-models-to-power-ar-experiences-92f364de03ff?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
@@ -75,7 +85,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ## Mobile-Ready <a name="mobileready"></a>
 
-- [Fritz AI](https://www.fritz.ai/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think.
+- [Fritz AI](https://www.fritz.ai/?utm_source=github&utm_campaign=awesome_mobile_machine_learning): Fritz AI is the machine learning platform for iOS, Android, and SnapML developers/creators. Teach your mobile devices to see, hear, sense, and think.
 - [Core ML](https://developer.apple.com/documentation/coreml): With Core ML, you can integrate trained machine learning models into your iOS apps.
 - [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an open source deep learning framework for on-device inference.
 - [Create ML](https://developer.apple.com/documentation/createml): Use Create ML with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
@@ -95,6 +105,12 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [PyTorch](https://pytorch.org/): An open source deep learning platform that provides a seamless path from research prototyping to production deployment..HARD
 
 # Code, Libraries, and Resources <a name="code"></a>
+
+## SnapML <a name="snapmldocs"></a>
+
+- [Lens Studio SnapML documentation](https://lensstudio.snapchat.com/guides/machine-learning/ml-overview/)
+- [Fritz AI for SnapML documentation](https://docs.fritz.ai/snapml/overview/?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Studio support forum, tutorials, discussion, etc](https://support.lensstudio.snapchat.com/hc/en-us/community/topics)
 
 ## iOS <a name="ioscode"></a>
 
@@ -161,6 +177,43 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 # Tutorials & Learning <a name="tutorials"></a>
 
+## SnapML <a name="snapmltutorials"></a>
+
+### Image Recognition/Classification
+
+- [Create a Custom AI-Powered Snapchat Lens with Fritz AI Studio](https://heartbeat.fritz.ai/create-a-custom-ai-powered-snapchat-lens-with-fritz-ai-studio-6f402311baa4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Xbox or PS5 Enthusiast? — Create an AI-Powered Snapchat Lens with Fritz AI Studio](https://heartbeat.fritz.ai/xbox-or-ps5-enthusiast-create-an-ai-powered-snapchat-lens-with-fritz-ai-studio-471facd3aa5d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+### Object Detection
+
+- [Working with SnapML Templates: Object Detection](https://heartbeat.fritz.ai/working-with-snapml-templates-object-detection-a5760d2fe241?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [(Guide) Object Detection ML](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360072034852--Guide-Object-Detection-ML)
+
+### Image Segmentation
+
+- [Building a Custom Glasses Snapchat Lens with Fritz AI and Lens Studio — Zero Code Involved](https://heartbeat.fritz.ai/building-a-custom-glasses-snapchat-lens-with-fritz-ai-and-lens-studio-zero-code-involved-f9bfcc882c65?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Building a Custom Face Mask Snapchat Lens with Fritz AI and Lens Studio](https://heartbeat.fritz.ai/building-a-custom-face-mask-snapchat-lens-with-fritz-ai-and-lens-studio-ba541b8ca5ae?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [SnapML in Lens Studio—Apply AR Effects to Segmented Objects](https://heartbeat.fritz.ai/snapml-in-lens-studio-apply-ar-effects-to-segmented-objects-a7b3970f40b6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create Lenses with SnapML & Fritz.ai (YouTube)](https://www.youtube.com/watch?v=JfahgaprJy8&feature=youtu.be)
+
+### Style Transfer
+
+- [Working with SnapML Templates in Lens Studio: Style Transfer](https://heartbeat.fritz.ai/working-with-snapml-templates-in-lens-studio-style-transfer-5ecb599325cf?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating a Style Transfer Snapchat Lens with Fritz AI and SnapML in Lens Studio](https://heartbeat.fritz.ai/creating-a-style-transfer-snapchat-lens-with-fritz-ai-and-snapml-in-lens-studio-944e8fe52896?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Combining Style Transfer with Background Replacement in Lens Studio with Fritz AI and SnapML](https://heartbeat.fritz.ai/combining-style-transfer-with-background-replacement-in-lens-studio-with-fritz-ai-and-snapml-5f51ede9789?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create a Style Transfer Snapchat Lens with SnapML’s ML Component](https://heartbeat.fritz.ai/create-a-style-transfer-snapchat-lens-with-snapmls-ml-component-361ca2c10573?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [(Guide) Style Transfer ML](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360071797931--Guide-Style-Transfer-ML)
+- [Adjusting Style Transfer Lenses for SnapCamera](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360072358671--Tutorial-SnapML-Adjusting-Style-Transfer-Lenses-for-SnapCamera)
+
+### Other
+
+- [(Ebook) Working with Machine Learning in Snap Lens Studio](https://www.fritz.ai/ebooks/snapml-guide/?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Demystifying common use cases for SnapML in Lens Studio](https://heartbeat.fritz.ai/demystifying-common-use-cases-for-snapml-in-lens-studio-e7e4c2131cc3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Working with SnapML Templates in Lens Studio: An Overview](https://heartbeat.fritz.ai/working-with-snapml-templates-in-lens-studio-an-overview-97a0b08ee719?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Exploring SnapML: A Technical Overview](https://heartbeat.fritz.ai/exploring-snapml-a-technical-overview-45d37114fe81?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Machine Learning Primer for Snapchat Lens Creators](https://heartbeat.fritz.ai/machine-learning-primer-for-snapchat-lens-creators-58f2a80da7e4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [SnapML in Lens Studio: ML Component Breakdown](https://heartbeat.fritz.ai/snapml-in-lens-studio-ml-component-breakdown-80d2e2b596ee?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 ## iOS <a name="iostutorials"></a>
 
 ### Computer Vision
@@ -197,6 +250,10 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [On-Device Machine Learning with SwiftUI and PyTorch Mobile](https://medium.com/flawless-app-stories/on-device-machine-learning-with-swiftui-and-pytorch-mobile-aa0dcec5d881)
 - [Building an on-device face mask detector with Fritz AI Studio](https://heartbeat.fritz.ai/building-an-on-device-face-mask-detector-with-fritz-ai-studio-874a88ae2702?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build a SwiftUI + Core ML Emoji Hunt Game for iOS](https://heartbeat.fritz.ai/build-a-swiftui-core-ml-emoji-hunt-game-for-ios-eb4465ec4153?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Implementing a Fritz AI Machine Learning Model in an iOS app](https://heartbeat.fritz.ai/implementing-a-fritz-ai-machine-learning-model-in-an-ios-app-d3530c1192b4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Train a Face-Mask Detection Model in Under 5 Minutes using Lobe.ai](https://heartbeat.fritz.ai/train-face-mask-detection-model-under-5-minutes-using-lobe-ai-46a26b7b1f17?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Detecting Skin Cancer on iOS with Xcode and Create ML](https://heartbeat.fritz.ai/detecting-skin-cancer-on-ios-with-xcode-and-create-ml-4cb0f80cb3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Labeling in Android with Fritz AI](https://heartbeat.fritz.ai/image-labeling-in-android-with-fritz-ai-de045d4cc997?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object/Face Detection
 
@@ -212,12 +269,15 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Scanning Credit Cards with Computer Vision on iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Face Recognition and Detection on iOS Using Native Swift Code, Core ML, and ARKit](https://heartbeat.fritz.ai/face-recognition-and-detection-on-ios-using-native-swift-code-core-ml-and-arkit-feed10c468da?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using TensorFlow.js in a Native iOS App to Perform Object Detection](https://heartbeat.fritz.ai/using-tensorflow-js-in-a-native-ios-app-to-perform-object-detection-8577a3a9cdfe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create Homemade Recipes of Your Favorite Products on iOS Using Fritz AI Studio](https://heartbeat.fritz.ai/create-homemade-recipes-of-your-favorite-products-on-ios-using-fritz-ai-studio-c2c1a1fcc16d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Automatically Pixelate Faces on iOS using Face Detection with Native Swift Code](https://heartbeat.fritz.ai/automatically-pixelate-faces-on-ios-using-native-swift-code-for-face-detection-d541e47a8b07?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
 - [Real-Time Style Transfer for iOS](https://heartbeat.fritz.ai/real-time-style-transfer-for-ios-transform-your-photos-and-videos-into-masterpieces-f04111fcd2ff?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Creating a Prisma-like App with Core ML, Style Transfer, and Turi Create](https://www.appcoda.com/coreml-turi-create/)
 - [Style Transfer iOS Application Using Convolutional Neural Networks](https://heartbeat.fritz.ai/style-transfer-on-ios-using-convolutional-neural-networks-616fd748ece4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Train and Run a Create ML Style Transfer Model in an iOS Camera Application](https://heartbeat.fritz.ai/train-and-run-a-create-ml-style-transfer-model-in-an-ios-camera-application-84aab3b85458?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Image Segmentation
 
@@ -226,11 +286,13 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
 - [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Semantic and Instance Segmentation on iOS Using a Flask API — DeepLabV3+ and Mask R-CNN](https://heartbeat.fritz.ai/semantic-and-instance-segmentation-on-ios-using-a-flask-api-deeplabv3-and-mask-r-cnn-b141213de3e7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using Fritz AI in SwiftUI](https://heartbeat.fritz.ai/using-fritz-ai-in-swiftui-a3a9740c9d71?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Pose Estimation
 
 - [Pose Estimation on iOS](https://heartbeat.fritz.ai/pose-estimation-on-ios-with-fritz-60c8e5f7d195?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
+- [“Just Point It”: Machine Learning on iOS with Pose Estimation + OCR Using Core ML and ML Kit](https://heartbeat.fritz.ai/just-point-it-machine-learning-on-ios-with-pose-estimation-ocr-using-core-ml-and-ml-kit-b613666560ed?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Text Recognition
 
@@ -347,6 +409,9 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 - [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
 - [Build a Core ML Recommender Engine for iOS Using Create ML](https://heartbeat.fritz.ai/build-a-core-ml-recommender-engine-for-ios-using-create-ml-e8a748d01ba3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Colorizing Images in an iOS App Using DeOldify and a Flask API](https://heartbeat.fritz.ai/colorizing-images-in-an-ios-app-using-deoldify-and-a-flask-api-13b3b963579f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Advancements in Artificial Intelligence in iOS 14](https://heartbeat.fritz.ai/advancements-in-artificial-intelligence-in-ios-14-c1602f5d4951?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Core ML + ARKit: Annotating objects in Augmented Reality](https://heartbeat.fritz.ai/core-ml-arkit-annotating-objects-in-augmented-reality-493952a94a5f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Android <a name="androidtutorials"></a>
 
@@ -378,6 +443,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Recognition for Android with a Custom TensorFlow Lite Model](https://heartbeat.fritz.ai/image-recognition-for-android-with-a-custom-tensorflow-lite-model-6418186ecc0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Working with TensorFlow Lite in Flutter](https://itnext.io/working-with-tensorflow-lite-in-flutter-f00d733a09c3)
 - [TensorFlow Lite Model Maker: Build an Image Classifier for Android](https://heartbeat.fritz.ai/tensorflow-lite-model-maker-build-an-image-classifier-for-android-cf5893f713a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Digit Recognizer with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/digit-recognizer-with-flutter-and-tensorflow-lite-33f5145b5f32?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Classification on Mobile with Flutter, TensorFlow Lite, and Teachable Machine](https://heartbeat.fritz.ai/image-classification-on-mobile-with-flutter-tensorflow-lite-and-teachable-machine-f7de39598e0c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
@@ -392,20 +459,28 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
 - [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 - [Object Detection in Android Using Firebase ML Kit](https://heartbeat.fritz.ai/object-detection-in-android-using-firebase-ml-kit-c9230493a2a1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Object Detection in Android with Fritz AI](https://heartbeat.fritz.ai/object-detection-in-android-with-fritz-ai-fd6e0eb7adfa?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Turning the Mobile Camera into a Real-Time Object Detector with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/turning-the-mobile-camera-into-a-real-time-object-detector-with-flutter-and-tensorflow-lite-f412962b1805?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [On-Device Face Detection on Android using Google’s ML Kit](https://heartbeat.fritz.ai/on-device-face-detection-on-android-using-googles-ml-kit-41f4d51bea8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Object Detection in Android Using Firebase ML Kit](https://heartbeat.fritz.ai/object-detection-in-android-using-firebase-ml-kit-c9230493a2a1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Object Detection with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/object-detection-with-flutter-and-tensorflow-lite-8254bcd0cd5f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Style Transfer
 
 - [Real-Time Style Transfer for Android](https://heartbeat.fritz.ai/real-time-style-transfer-for-android-6a9d238dfdb5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Style Transfer on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/style-transfer-on-android-in-kotlin-using-fritz-ai-and-camerax-dbf7859daa30?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Style Transfer in Android Applications with Fritz AI](https://heartbeat.fritz.ai/style-transfer-in-android-applications-with-fritz-ai-9c8985b0915?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Image Segmentation
 - [Embrace your new look with Hair Segmentation by Fritz—Now available for Android developers](https://heartbeat.fritz.ai/embrace-your-new-look-with-hair-segmentation-by-fritz-now-available-for-android-developers-f20f5b4e9ae1)
 - [Creating a Pet Sticker App on Android with Fritz Pet Segmentation](https://android.jlelse.eu/creating-a-pet-sticker-app-on-android-with-fritz-pet-segmentation-72d158874773)
+- [Image Segmentation in Android with Fritz AI](https://heartbeat.fritz.ai/image-segmentation-in-android-with-fritz-ai-111b258802a3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Pose Estimation
 
 - [Pose Estimation on Android](https://heartbeat.fritz.ai/pose-estimation-on-android-with-fritz-474e646dfede?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting cropped faces in images using the Fritz Pose Estimation API](https://heartbeat.fritz.ai/detecting-cropped-faces-in-images-using-the-fritz-pose-estimation-api-26082418e049?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Human Pose Estimation in Android using Fritz AI](https://heartbeat.fritz.ai/human-pose-estimation-in-android-using-fritz-ai-cd8c584b1ea1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Text Recognition
 
@@ -414,6 +489,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
 - [Card Scanner on Android Using Firebase’s ML Kit and CameraX](https://heartbeat.fritz.ai/card-scanner-using-firebase-ml-kit-and-camerax-468075f02768?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Recognize Text in Images on Android with Firebase’s ML Kit](https://heartbeat.fritz.ai/recognize-text-in-images-on-android-with-firebases-ml-kit-a6bfe59dff66?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Identify Language of Text on Android Using Google’s ML Kit](https://heartbeat.fritz.ai/identify-language-of-text-on-android-using-googles-ml-kit-edca327222cb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Other
 - [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -421,6 +497,11 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
 - [Running Artificial Neural Networks in Android using OpenCV](https://heartbeat.fritz.ai/running-artificial-neural-networks-in-android-using-opencv-3c5640778578?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [On-Device Activity Recognition](https://aqibsaeed.github.io/on-device-activity-recognition)
+- [Video Processing in Android with Fritz AI](https://heartbeat.fritz.ai/video-processing-in-android-with-fritz-ai-62b19a5d315f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Fritz AI in Flutter Applications](https://heartbeat.fritz.ai/fritz-ai-in-flutter-applications-8c68186a4abe?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Scan Barcodes on Android Using the Power of ML Kit and Fotoapparat](https://heartbeat.fritz.ai/mlkit-barcodes-scanning-with-fotoapparat-and-ml-kit-in-android-867c727b13b3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
@@ -444,6 +525,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Using TensorFlow Lite on Android](https://medium.com/tensorflow/using-tensorflow-lite-on-android-9bbc9cb7d69d)
 - [Using Deep Learning and Neural Networks in Android Applications](https://deeplearning4j.org/docs/latest/deeplearning4j-android)
 - [Loading and running a quantized TensorFlow Lite model on Android](https://heartbeat.fritz.ai/loading-and-running-a-quantized-tensorflow-lite-model-on-android-18aa7505076a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Cross/Multi-Platform and IoT/Edge <a name="crosstutorials"></a>
 
@@ -489,6 +571,15 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Deep Learning for Natural Language Processing on Mobile Devices](https://towardsdatascience.com/deep-learning-for-natural-language-processing-on-mobile-devices-3024747a7043)
 - [Scan Barcodes in Flutter Using Firebase’s ML Kit](https://heartbeat.fritz.ai/scan-barcodes-in-flutter-using-firebases-ml-kit-b5b014a67ed1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Implementing MobileBERT for Next Sentence Prediction](https://heartbeat.fritz.ai/implementing-mobile-bert-for-next-sentence-prediction-a2ae8b804f77?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Training an Image Classification Model for Mobile using TensorFlow Lite](https://heartbeat.fritz.ai/training-an-image-classification-model-for-mobile-using-tensorflow-lite-5ad9537841e6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Generative Adversarial Networks (GANs) for Mobile Devices](https://heartbeat.fritz.ai/generative-adversarial-networks-gans-for-mobile-devices-99ab4e546a41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [TensorFlow Estimators — TFLite and Model Generation](https://heartbeat.fritz.ai/tensorflow-estimators-tflite-model-generation-a-comprehensive-overview-with-audio-fae8390833ca?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Neural Network Pruning Research Review 2020](https://heartbeat.fritz.ai/neural-network-pruning-research-review-2020-bc21a77f0295?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Quantization Arithmetic](https://heartbeat.fritz.ai/quantization-arithmetic-421e66afd842?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [MobileBERT Using PyTorch for Multiple Choice](https://heartbeat.fritz.ai/mobile-bert-using-pytorch-for-multiple-choice-4965a43c7b26?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Practical tips for better quantization results](https://heartbeat.fritz.ai/practical-tips-for-better-quantization-results-613a3538c1a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [TensorFlow Lite Model for On-Device Housing Price Predictions](https://heartbeat.fritz.ai/tensorflow-lite-model-for-on-device-housing-price-predictions-9d0f5f9e6a8a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
@@ -542,6 +633,22 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Deep Learning In JavaScript (Part 4)](https://heartbeat.fritz.ai/deep-learning-in-javascript-part-4-294c53cbe28?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Constructing a 3D Face Mesh from Face Landmarks in Real-Time with TensorFlow.js and Plot.js](https://heartbeat.fritz.ai/constructing-a-3d-face-mesh-from-face-landmarks-in-real-time-with-tensorflow-js-and-plot-js-62b177abcf9f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Introduction to hand detection in the browser with Handtrack.js and TensorFlow](https://heartbeat.fritz.ai/introduction-to-hand-detection-in-the-browser-with-handtrack-js-and-tensorflow-e4256fa8184b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Detect Face Masks in Images with TensorFlow.js](https://heartbeat.fritz.ai/how-to-detect-face-masks-in-images-with-tensorflow-js-3b40b8c940cc?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Multi-team object detection for football games on Raspberry Pi 3](https://heartbeat.fritz.ai/multi-team-object-detection-technique-of-football-games-on-raspberry-pi3-94ccbe01b9fd?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Real-Time Human Pose Estimation with TensorFlow.js](https://heartbeat.fritz.ai/real-time-human-pose-estimation-with-tensorflow-js-51da62b68d3a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to detect a “thumbs-up” in the browser with TensorFlow.js](https://heartbeat.fritz.ai/how-to-detect-a-thumbs-up-in-the-browser-with-tensorflow-js-b53fde1bf0f7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Getting Started with Face Landmark Detection in the Browser with TensorFlow.JS](https://heartbeat.fritz.ai/getting-started-with-face-landmark-detection-with-tensorflow-js-9f4ae03f86ee?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [TensorFlow Lite Micro](https://heartbeat.fritz.ai/tensorflow-lite-micro-e3f27f1eed1b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Body Segmentation in the Browser with TensorFlow.js](https://heartbeat.fritz.ai/body-segmentation-in-webcam-with-tensorflow-js-b455d6ed21b5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Getting Started with Object Detection Using TensorFlow.js](https://heartbeat.fritz.ai/getting-started-with-object-detection-using-tensorflow-js-757d21658e2d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using the Snapdragon Neural Processing Engine for efficient edge deployment of ML models](https://heartbeat.fritz.ai/using-the-snapdragon-neural-processing-engine-for-efficient-edge-deployment-of-ml-models-e4adb53494b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Classification Made Easy in the Browser with TensorFlow.js](https://heartbeat.fritz.ai/image-classification-made-easy-in-the-browser-with-tensorflow-js-82d016f603a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [End-to-end object detection using EfficientDet on Raspberry Pi 3 (Part 1)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-e4a0d3fe895b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [End-to-end Object Detection Using EfficientDet on Raspberry Pi 3 (Part 2)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-2-bb5133646630?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [End-to-End Object Detection Using EfficientDet on Raspberry Pi 3 (Part 3)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-3-2bd6a7a6614d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Building a “Motivation Bot” with TensorFlow.js, Face Detection, and Emotion Classification](https://heartbeat.fritz.ai/building-a-motivation-bot-with-tensorflow-js-face-detection-and-emotion-classification-7b80a38eb9c3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Getting Started with Image Segmentation Using TensorFlow.js](https://heartbeat.fritz.ai/getting-started-with-image-segmentation-using-tensorflow-js-a157e1cbbd51?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Safer and Smarter: Contactless shopping with on-device object detection](https://heartbeat.fritz.ai/safer-and-smarter-contactless-shopping-with-on-device-object-detection-ce7305ae7518?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
