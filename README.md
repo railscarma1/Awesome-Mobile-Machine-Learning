@@ -204,6 +204,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Create a Style Transfer Snapchat Lens with SnapML’s ML Component](https://heartbeat.fritz.ai/create-a-style-transfer-snapchat-lens-with-snapmls-ml-component-361ca2c10573?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [(Guide) Style Transfer ML](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360071797931--Guide-Style-Transfer-ML)
 - [Adjusting Style Transfer Lenses for SnapCamera](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360072358671--Tutorial-SnapML-Adjusting-Style-Transfer-Lenses-for-SnapCamera)
+- [Quickly Build a Snapchat Lens By Leveraging Fritz AI Studio’s Style Transfer Model](https://heartbeat.fritz.ai/quickly-built-a-snapchat-lens-by-leveraging-fritz-ai-studios-style-transfer-model-6e5717ecde32?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Other
 
