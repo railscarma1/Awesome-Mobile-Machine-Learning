@@ -294,6 +294,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Pose Estimation on iOS](https://heartbeat.fritz.ai/pose-estimation-on-ios-with-fritz-60c8e5f7d195?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
 - [“Just Point It”: Machine Learning on iOS with Pose Estimation + OCR Using Core ML and ML Kit](https://heartbeat.fritz.ai/just-point-it-machine-learning-on-ios-with-pose-estimation-ocr-using-core-ml-and-ml-kit-b613666560ed?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Swipeless Tinder Using iOS 14 Vision Hand Pose Estimation](https://heartbeat.fritz.ai/swipeless-tinder-using-ios-14-vision-hand-pose-estimation-64e5f00ce45c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Text Recognition
 
