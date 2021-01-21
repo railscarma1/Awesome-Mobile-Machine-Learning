@@ -80,7 +80,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Fast.ai](https://www.fast.ai/about/)
 - [Kaggle: The place to do data science projects](https://www.kaggle.com/)
 - [Awesome Data Science with Python](https://github.com/r0f1/datascience): A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.
-[Explainable, Responsible, and Trustworthy Artificial Intelligence](https://heartbeat.fritz.ai/explainable-responsible-and-trustworthy-artificial-intelligence-47c140ebeb05)
+- [Explainable, Responsible, and Trustworthy Artificial Intelligence](https://heartbeat.fritz.ai/explainable-responsible-and-trustworthy-artificial-intelligence-47c140ebeb05)
 
 # Mobile Machine Learning Frameworks <a name="frameworks"></a>
 
