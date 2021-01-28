@@ -256,7 +256,6 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Implementing a Fritz AI Machine Learning Model in an iOS app](https://heartbeat.fritz.ai/implementing-a-fritz-ai-machine-learning-model-in-an-ios-app-d3530c1192b4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Train a Face-Mask Detection Model in Under 5 Minutes using Lobe.ai](https://heartbeat.fritz.ai/train-face-mask-detection-model-under-5-minutes-using-lobe-ai-46a26b7b1f17?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting Skin Cancer on iOS with Xcode and Create ML](https://heartbeat.fritz.ai/detecting-skin-cancer-on-ios-with-xcode-and-create-ml-4cb0f80cb3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-- [Image Labeling in Android with Fritz AI](https://heartbeat.fritz.ai/image-labeling-in-android-with-fritz-ai-de045d4cc997?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object/Face Detection
 
@@ -449,6 +448,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [TensorFlow Lite Model Maker: Build an Image Classifier for Android](https://heartbeat.fritz.ai/tensorflow-lite-model-maker-build-an-image-classifier-for-android-cf5893f713a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Digit Recognizer with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/digit-recognizer-with-flutter-and-tensorflow-lite-33f5145b5f32?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Classification on Mobile with Flutter, TensorFlow Lite, and Teachable Machine](https://heartbeat.fritz.ai/image-classification-on-mobile-with-flutter-tensorflow-lite-and-teachable-machine-f7de39598e0c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Labeling in Android with Fritz AI](https://heartbeat.fritz.ai/image-labeling-in-android-with-fritz-ai-de045d4cc997?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
