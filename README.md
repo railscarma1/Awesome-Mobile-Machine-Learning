@@ -585,7 +585,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Practical tips for better quantization results](https://heartbeat.fritz.ai/practical-tips-for-better-quantization-results-613a3538c1a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [TensorFlow Lite Model for On-Device Housing Price Predictions](https://heartbeat.fritz.ai/tensorflow-lite-model-for-on-device-housing-price-predictions-9d0f5f9e6a8a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Dog Breed Classification on Mobile with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/dog-breed-classifier-on-mobile-with-flutter-and-tensorflow-lite-8bce10d29aa6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
--[Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite] (https://heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot-devices-using-tensorflow-lite-e98e7a48c309? utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
+-[Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite] (https://heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot-devices-using-tensorflow-lite-e98e7a48c309?utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
 
 ### Edge/Browser
 
