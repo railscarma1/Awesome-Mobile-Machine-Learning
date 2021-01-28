@@ -196,6 +196,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a Custom Face Mask Snapchat Lens with Fritz AI and Lens Studio](https://heartbeat.fritz.ai/building-a-custom-face-mask-snapchat-lens-with-fritz-ai-and-lens-studio-ba541b8ca5ae?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [SnapML in Lens Studio—Apply AR Effects to Segmented Objects](https://heartbeat.fritz.ai/snapml-in-lens-studio-apply-ar-effects-to-segmented-objects-a7b3970f40b6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Create Lenses with SnapML & Fritz.ai (YouTube)](https://www.youtube.com/watch?v=JfahgaprJy8&feature=youtu.be)
+- [Custom Face Mask Segmentation for Lens Studio with Fritz AI (Video + Transcript)](https://heartbeat.fritz.ai/custom-face-mask-segmentation-for-lens-studio-with-fritz-ai-video-transcript-609d17351ec?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Style Transfer
 
