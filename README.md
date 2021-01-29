@@ -216,6 +216,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Exploring SnapML: A Technical Overview](https://heartbeat.fritz.ai/exploring-snapml-a-technical-overview-45d37114fe81?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Machine Learning Primer for Snapchat Lens Creators](https://heartbeat.fritz.ai/machine-learning-primer-for-snapchat-lens-creators-58f2a80da7e4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [SnapML in Lens Studio: ML Component Breakdown](https://heartbeat.fritz.ai/snapml-in-lens-studio-ml-component-breakdown-80d2e2b596ee?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Exploring SnapML Templates used in Lens Studio](https://heartbeat.fritz.ai/exploring-snapml-templates-used-in-lens-studio-6ee8ec586c35?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 ## iOS <a name="iostutorials"></a>
 
@@ -256,6 +258,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Implementing a Fritz AI Machine Learning Model in an iOS app](https://heartbeat.fritz.ai/implementing-a-fritz-ai-machine-learning-model-in-an-ios-app-d3530c1192b4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Train a Face-Mask Detection Model in Under 5 Minutes using Lobe.ai](https://heartbeat.fritz.ai/train-face-mask-detection-model-under-5-minutes-using-lobe-ai-46a26b7b1f17?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting Skin Cancer on iOS with Xcode and Create ML](https://heartbeat.fritz.ai/detecting-skin-cancer-on-ios-with-xcode-and-create-ml-4cb0f80cb3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Emoji Classification with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/emoji-classifier-with-flutter-and-tensorflow-lite-51d026ac2ccutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 #### Object/Face Detection
 
@@ -289,6 +293,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Semantic and Instance Segmentation on iOS Using a Flask API — DeepLabV3+ and Mask R-CNN](https://heartbeat.fritz.ai/semantic-and-instance-segmentation-on-ios-using-a-flask-api-deeplabv3-and-mask-r-cnn-b141213de3e7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Using Fritz AI in SwiftUI](https://heartbeat.fritz.ai/using-fritz-ai-in-swiftui-a3a9740c9d71?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Custom Face Mask Segmentation for Lens Studio with Fritz AI (Video + Transcript](https://heartbeat.fritz.ai/custom-face-mask-segmentation-for-lens-studio-with-fritz-ai-video-transcript-609d17351ec?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 #### Pose Estimation
 
@@ -407,6 +413,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Core ML and Vision Tutorial: On-device training on iOS](https://www.raywenderlich.com/7960296-core-ml-and-vision-tutorial-on-device-training-on-ios)
 - [How to Run and Test Core ML Models in a Swift Playground](https://heartbeat.fritz.ai/how-to-run-and-test-core-ml-models-in-swift-playgrounds-8e4b4f9cf676?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Evolving Your iOS App’s Intelligence with Core ML Model Deployment](https://heartbeat.fritz.ai/evolving-your-apps-intelligence-with-core-ml-model-deployment-165579ba0546?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Machine Learning in Android using TensorFlow Lite] (https://heartbeat.fritz.ai/machine-learning-in-android-using-tensorflow-lite-4fb0755dd1e?utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
 
 ### Other
 
@@ -655,6 +662,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a “Motivation Bot” with TensorFlow.js, Face Detection, and Emotion Classification](https://heartbeat.fritz.ai/building-a-motivation-bot-with-tensorflow-js-face-detection-and-emotion-classification-7b80a38eb9c3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Getting Started with Image Segmentation Using TensorFlow.js](https://heartbeat.fritz.ai/getting-started-with-image-segmentation-using-tensorflow-js-a157e1cbbd51?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Safer and Smarter: Contactless shopping with on-device object detection](https://heartbeat.fritz.ai/safer-and-smarter-contactless-shopping-with-on-device-object-detection-ce7305ae7518?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [An Introduction to Insider Threat Detection With Machine Learning](https://heartbeat.fritz.ai/an-introduction-to-insider-threat-detection-with-machine-learning-732fe19c8703?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
