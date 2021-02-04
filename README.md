@@ -217,6 +217,10 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Machine Learning Primer for Snapchat Lens Creators](https://heartbeat.fritz.ai/machine-learning-primer-for-snapchat-lens-creators-58f2a80da7e4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [SnapML in Lens Studio: ML Component Breakdown](https://heartbeat.fritz.ai/snapml-in-lens-studio-ml-component-breakdown-80d2e2b596ee?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Exploring SnapML Templates used in Lens Studio](https://heartbeat.fritz.ai/exploring-snapml-templates-used-in-lens-studio-6ee8ec586c35?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Implementing Conway’s Game of Life in Lens Studio](https://heartbeat.fritz.ai/implementing-conways-game-of-life-in-snap-lens-studio-material-721625ef741e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Trend Spotlight: “Cyber Core”](https://heartbeat.fritz.ai/lens-trend-spotlight-cyber-core-3158928ce3dd?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 
 ## iOS <a name="iostutorials"></a>
@@ -312,6 +316,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Scanning Credit Cards with Computer Vision on iOS](https://heartbeat.fritz.ai/scanning-credit-cards-with-computer-vision-on-ios-c3f4d8912de4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 #### Other
 
@@ -663,6 +669,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Getting Started with Image Segmentation Using TensorFlow.js](https://heartbeat.fritz.ai/getting-started-with-image-segmentation-using-tensorflow-js-a157e1cbbd51?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Safer and Smarter: Contactless shopping with on-device object detection](https://heartbeat.fritz.ai/safer-and-smarter-contactless-shopping-with-on-device-object-detection-ce7305ae7518?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [An Introduction to Insider Threat Detection With Machine Learning](https://heartbeat.fritz.ai/an-introduction-to-insider-threat-detection-with-machine-learning-732fe19c8703?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating Instagram and Facebook AR Filters with Spark AR Studio (Part 4)(https://heartbeat.fritz.ai/creating-instagram-and-facebook-ar-filters-with-spark-ar-studio-part-4-8e0f4421ab01?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
