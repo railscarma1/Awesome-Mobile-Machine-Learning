@@ -113,6 +113,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Fritz AI for SnapML documentation](https://docs.fritz.ai/snapml/overview/?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Lens Studio support forum, tutorials, discussion, etc](https://support.lensstudio.snapchat.com/hc/en-us/community/topics)
 
+
 ## iOS <a name="ioscode"></a>
 
 - [fritz-examples](https://github.com/fritzlabs/fritz-examples): A collection of experiences utilizing machine learning models from [Fritz AI](https://fritz.ai?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -219,6 +220,12 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Exploring SnapML Templates used in Lens Studio](https://heartbeat.fritz.ai/exploring-snapml-templates-used-in-lens-studio-6ee8ec586c35?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Implementing Conway’s Game of Life in Lens Studio](https://heartbeat.fritz.ai/implementing-conways-game-of-life-in-snap-lens-studio-material-721625ef741e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Lens Trend Spotlight: “Cyber Core”](https://heartbeat.fritz.ai/lens-trend-spotlight-cyber-core-3158928ce3dd?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating an Animated 3D Phoenix Lens in Lens Studio](https://heartbeat.fritz.ai/creating-and-animated-3d-phoenix-lens-in-lens-studio-b63889a53e3f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Tips and tricks to keep your Lens within Lens Studio’s 4mb limit](https://heartbeat.fritz.ai/first-draft-tips-and-tricks-to-keep-your-lens-within-lens-studios-4mb-limit-4116b1596091?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Full-body Deepfakes, 3D Human Filters and more: New, enhanced AR features round the corner for Snapchat?](https://heartbeat.fritz.ai/full-body-deepfakes-3d-human-filters-and-more-new-enhanced-ar-features-round-the-corner-for-7154e51814be?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [https://heartbeat.fritz.ai/an-overview-about-augmented-reality-ar-and-its-type-with-different-use-case-5531f3dbd071](https://heartbeat.fritz.ai/an-overview-about-augmented-reality-ar-and-its-type-with-different-use-case-5531f3dbd071?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 
 
@@ -599,6 +606,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [TensorFlow Lite Model for On-Device Housing Price Predictions](https://heartbeat.fritz.ai/tensorflow-lite-model-for-on-device-housing-price-predictions-9d0f5f9e6a8a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Dog Breed Classification on Mobile with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/dog-breed-classifier-on-mobile-with-flutter-and-tensorflow-lite-8bce10d29aa6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 -[Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite](https://heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot-devices-using-tensorflow-lite-e98e7a48c309?utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
+
 
 ### Edge/Browser
 
