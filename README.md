@@ -224,6 +224,10 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Tips and tricks to keep your Lens within Lens Studio’s 4mb limit](https://heartbeat.fritz.ai/first-draft-tips-and-tricks-to-keep-your-lens-within-lens-studios-4mb-limit-4116b1596091?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Full-body Deepfakes, 3D Human Filters and more: New, enhanced AR features round the corner for Snapchat?](https://heartbeat.fritz.ai/full-body-deepfakes-3d-human-filters-and-more-new-enhanced-ar-features-round-the-corner-for-7154e51814be?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [https://heartbeat.fritz.ai/an-overview-about-augmented-reality-ar-and-its-type-with-different-use-case-5531f3dbd071](https://heartbeat.fritz.ai/an-overview-about-augmented-reality-ar-and-its-type-with-different-use-case-5531f3dbd071?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Simultaneously detecting face, hand motion, and pose in real-time on mobile devices](https://heartbeat.fritz.ai/simultaneously-detecting-face-hand-motion-and-pose-in-real-time-on-mobile-devices-27849560fc4e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Behavior Scripts in Lens Studio: The Basics](https://heartbeat.fritz.ai/behavior-scripts-in-lens-studio-the-basics-fd11eb9db6a7utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Scripting with SnapML in Lens Studio](https://heartbeat.fritz.ai/scripting-with-snapml-in-lens-studio-a871c31ecaf5utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Snapchat Lens Recipe: “Clone”](https://heartbeat.fritz.ai/snapchat-lens-recipe-clone-76de4a66a8feutm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 
@@ -270,6 +274,9 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Train a Face-Mask Detection Model in Under 5 Minutes using Lobe.ai](https://heartbeat.fritz.ai/train-face-mask-detection-model-under-5-minutes-using-lobe-ai-46a26b7b1f17?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Detecting Skin Cancer on iOS with Xcode and Create ML](https://heartbeat.fritz.ai/detecting-skin-cancer-on-ios-with-xcode-and-create-ml-4cb0f80cb3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Emoji Classification with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/emoji-classifier-with-flutter-and-tensorflow-lite-51d026ac2ccutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build a Cat-or-Dog Classification Flutter App with TensorFlow Lite](https://heartbeat.fritz.ai/build-a-cat-or-dog-classification-flutter-app-tensorflow-lite-7b57223d7754utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 
 #### Object/Face Detection
@@ -469,6 +476,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Digit Recognizer with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/digit-recognizer-with-flutter-and-tensorflow-lite-33f5145b5f32?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Classification on Mobile with Flutter, TensorFlow Lite, and Teachable Machine](https://heartbeat.fritz.ai/image-classification-on-mobile-with-flutter-tensorflow-lite-and-teachable-machine-f7de39598e0c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Labeling in Android with Fritz AI](https://heartbeat.fritz.ai/image-labeling-in-android-with-fritz-ai-de045d4cc997?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- - [How to identify Nigerian dishes using Artificial Intelligence on Android Devices (Part 1)](https://heartbeat.fritz.ai/how-to-identify-nigerian-dishes-using-artificial-intelligence-on-android-devices-part-1-4ca03f1c656a_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
