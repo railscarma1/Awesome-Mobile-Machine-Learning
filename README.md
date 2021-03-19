@@ -228,6 +228,13 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Behavior Scripts in Lens Studio: The Basics](https://heartbeat.fritz.ai/behavior-scripts-in-lens-studio-the-basics-fd11eb9db6a7utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Scripting with SnapML in Lens Studio](https://heartbeat.fritz.ai/scripting-with-snapml-in-lens-studio-a871c31ecaf5utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Snapchat Lens Recipe: “Clone”](https://heartbeat.fritz.ai/snapchat-lens-recipe-clone-76de4a66a8feutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Audio in Lens Studio](https://heartbeat.fritz.ai/audio-in-lens-studio-79fe07c9f357utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Experimenting with Lens Studio’s Asset Library](https://heartbeat.fritz.ai/experimenting-with-lens-studios-asset-library-5aaec93aba9butm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How Snapchat Lenses Effect TikTok Trends and why Lens Creators are so Important](https://heartbeat.fritz.ai/how-snapchat-lenses-effect-tiktok-trends-and-why-lens-creators-are-so-important-e0235c097569utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Custom Scripting in Lens Studio](https://heartbeat.fritz.ai/scripting-in-lens-studio-4be2a0f42ebdutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
+
 
 
 
@@ -542,6 +549,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Machine Learning in Action: Building a Universal Translator App for Android with Kotlin](https://medium.com/mindorks/machine-learning-in-action-building-a-universal-translator-app-for-android-with-kotlin-ff9d21ae818)
 - [Creating an offline translation Android app using Firebase ML Kit](https://heartbeat.fritz.ai/creating-an-offline-translation-android-app-using-firebase-ml-kit-d7d0fc5d8813?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Enhancing Word Suggestions for Auto-completing Text in Android](https://heartbeat.fritz.ai/enhancing-word-suggestions-for-auto-completing-text-in-android-5ef40a8dfdc6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [On-Device Smart Replies on Android using Google’s ML Kit](https://heartbeat.fritz.ai/on-device-smart-replies-on-android-using-googles-ml-kit-9596c80d4d69utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 ### Model Conversion/Deployment/Management
 
@@ -558,6 +567,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Using Deep Learning and Neural Networks in Android Applications](https://deeplearning4j.org/docs/latest/deeplearning4j-android)
 - [Loading and running a quantized TensorFlow Lite model on Android](https://heartbeat.fritz.ai/loading-and-running-a-quantized-tensorflow-lite-model-on-android-18aa7505076a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build with Augmented Reality (AR) on Android Using ARCore and Sceneform](https://heartbeat.fritz.ai/build-with-augmented-reality-ar-on-android-using-arcore-and-sceneform-95151f164a62utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 ## Cross/Multi-Platform and IoT/Edge <a name="crosstutorials"></a>
 
@@ -614,6 +625,10 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [TensorFlow Lite Model for On-Device Housing Price Predictions](https://heartbeat.fritz.ai/tensorflow-lite-model-for-on-device-housing-price-predictions-9d0f5f9e6a8a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Dog Breed Classification on Mobile with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/dog-breed-classifier-on-mobile-with-flutter-and-tensorflow-lite-8bce10d29aa6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 -[Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite](https://heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot-devices-using-tensorflow-lite-e98e7a48c309?utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
+-[TensorFlow Lite Image Classification Models with Model Maker](https://heartbeat.fritz.ai/tensorflow-lite-image-classification-models-with-model-maker-a144801d2abdutm_source=github&utm_campaign=awesome_mobile_machine_learning) 
+-[Implementing Real-Time Pose Estimation on Mobile Using Flutter](https://heartbeat.fritz.ai/implementing-real-time-pose-estimation-on-mobile-using-flutter-af281d3740dfutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 
 ### Edge/Browser
