@@ -25,6 +25,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
   - [Fritz Community Resources](#fritzcode)
 - [Tutorials & Learning](#tutorials)
   - [SnapML](#snapmltutorials)
+  - [SparkAR] (#sparkartutorials)
   - [iOS](#iostutorials)
   - [Android](#androidtutorials)
   - [Cross/Multi-Platform and Edge](#crosstutorials)
@@ -232,11 +233,17 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Experimenting with Lens Studio’s Asset Library](https://heartbeat.fritz.ai/experimenting-with-lens-studios-asset-library-5aaec93aba9butm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How Snapchat Lenses Effect TikTok Trends and why Lens Creators are so Important](https://heartbeat.fritz.ai/how-snapchat-lenses-effect-tiktok-trends-and-why-lens-creators-are-so-important-e0235c097569utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Custom Scripting in Lens Studio](https://heartbeat.fritz.ai/scripting-in-lens-studio-4be2a0f42ebdutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Visual Scripting in Lens Studio](https://heartbeat.fritz.ai/visual-scripting-in-lens-studio-7ea9ed50d511utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Use Blender to Create Powerful Lenses](https://heartbeat.fritz.ai/how-to-use-blender-to-create-powerful-lenses8c7c90d987f9utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Tween Manager in Lens Studio](https://heartbeat.fritz.ai/tween-manager-in-lens-studio-fd936d9274b8utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Working with Particles in Lens Studio](https://heartbeat.fritz.ai/working-with-particles-in-lens-studio-fedada4cb3b7utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Studio Material Editor](https://heartbeat.fritz.ai/lens-studio-material-editor-5d6260628f3futm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
+## SparkAR <a name="sparkartutorials"></a>
 
-
-
-
+- [Face Changing Effect In Spark AR](https://heartbeat.fritz.ai/face-changing-effect-in-spark-ar-2e4fc88e9e56utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Replace Backgrounds in Spark AR Studio](https://heartbeat.fritz.ai/how-to-replace-backgrounds-in-facebook-ar-studio-9a2864313eaautm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Create a Face Tracking Effect in Facebook’s AR Studio](https://heartbeat.fritz.ai/how-to-create-a-face-tracking-effect-in-facebooks-ar-studio-883a98eb531autm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 
@@ -568,7 +575,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Loading and running a quantized TensorFlow Lite model on Android](https://heartbeat.fritz.ai/loading-and-running-a-quantized-tensorflow-lite-model-on-android-18aa7505076a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Coding Feed-Forward Neural Networks in Kotlin (or Android)](https://heartbeat.fritz.ai/coding-feed-foward-neural-networks-in-kotlin-or-android-b93efd47538f?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build with Augmented Reality (AR) on Android Using ARCore and Sceneform](https://heartbeat.fritz.ai/build-with-augmented-reality-ar-on-android-using-arcore-and-sceneform-95151f164a62utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-
+- [Exploring Random Forests In Light Of Kotlin](https://heartbeat.fritz.ai/exploring-random-forests-in-the-light-of-kotlin-250210793248utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Cross/Multi-Platform and IoT/Edge <a name="crosstutorials"></a>
 
@@ -627,8 +634,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 -[Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite](https://heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot-devices-using-tensorflow-lite-e98e7a48c309?utm_source=github&utm_campaign=awesome_mobile_machine_learning) 
 -[TensorFlow Lite Image Classification Models with Model Maker](https://heartbeat.fritz.ai/tensorflow-lite-image-classification-models-with-model-maker-a144801d2abdutm_source=github&utm_campaign=awesome_mobile_machine_learning) 
 -[Implementing Real-Time Pose Estimation on Mobile Using Flutter](https://heartbeat.fritz.ai/implementing-real-time-pose-estimation-on-mobile-using-flutter-af281d3740dfutm_source=github&utm_campaign=awesome_mobile_machine_learning)
-
-
+- [TensorFlow Lite Text Classification Models with Model Maker](https://heartbeat.fritz.ai/tensorflow-lite-text-classification-models-with-model-maker-f0acbf9faa14utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 ### Edge/Browser
