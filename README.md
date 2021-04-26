@@ -67,6 +67,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Federated Learning: Motivation and Challenges](https://heartbeat.fritz.ai/federated-learning-motivation-and-challenges-62f252fd3eae?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Will NVIDIA GPUs push AI on mobile devices to the next level?](https://heartbeat.fritz.ai/will-nvidia-gpus-push-ai-on-mobile-devices-to-the-next-level-49325dc64f47?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Mobile Machine Learning: 2020 Year in Review](https://heartbeat.fritz.ai/mobile-machine-learning-2020-year-in-review-be5d1f1052a1?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Artificial Intelligence to revolutionize the mobile app development](https://www.carmatec.com/technical/artificial-intelligence-to-revolutionize-the-mobile-app-development/)
 - [Alibaba’s Mobile Neural Network: A deep learning framework for mobile and embedded devices](https://heartbeat.fritz.ai/alibabas-mobile-neural-network-a-deep-learning-framework-for-mobile-and-embedded-devices-40fd64abcba5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Monetizing Mobile Machine Learning](https://heartbeat.fritz.ai/monetizing-mobile-machine-learning-57e0d25e606e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [The State of Mobile Machine Learning in 2020 (Industry Report)](https://www.fritz.ai/ebooks/mobile-machine-learning-data-report-2020/?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
